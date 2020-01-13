@@ -1,3 +1,5 @@
+# Q2
+# Finding the greatest value from our user input
 def three_comp():
     try:
         print("Finding The Greatest Number \n")
