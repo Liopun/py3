@@ -1,6 +1,7 @@
 import random
 import array
 
+
 arr1, arr2 = array.array('i', []), array.array('i', [])
 
 
