@@ -16,4 +16,4 @@ while len(arr1) < 5:
     arr1.append(random.randint(1, 100))
     arr2.append(random.randint(1, 100))
 
-print("Arr 1: %s \nArr 2: %s \nAddition: %s" %(arr1, arr2, adds(arr1, arr2)))
+print("Arr1: %s \nArr2: %s \nAddition: %s" %(arr1, arr2, adds(arr1, arr2)))
