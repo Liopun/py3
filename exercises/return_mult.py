@@ -1,4 +1,3 @@
-
 def count(lst):
     above_five, belowe_five = 0, 0
     for x in lst:
@@ -9,10 +8,11 @@ def count(lst):
 
     return above_five, belowe_five
 
+
 lst_names = []
 print("Enter 10 Random Names")
 
-while len(lst_names)<10:
+while len(lst_names) < 10:
     lst_names.append(str(input("\nname: ")))
 
 ab, be = count(lst_names)
