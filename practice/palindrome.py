@@ -1,4 +1,4 @@
-# Q6:
+# Q6: String Lists - Palindrome Checker
 
 
 def pal_finder(str_og):
