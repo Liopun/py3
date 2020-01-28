@@ -1,4 +1,4 @@
-# Q3:Divisors Finder
+# Q4: Divisors Finder
 
 
 def div(num):
