@@ -10,6 +10,7 @@ My Python Learning Journey
 - [List Overlap](http://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html) - write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes.
 - [String Lists](http://www.practicepython.org/exercise/2014/03/12/06-string-lists.html) - Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
 - [List Comprehensions](http://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html) - Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
-- []() - 
+- [Rock Paper Scissors](http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html) - Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using input), compare them, print out a message of congratulations to the winner, and ask if the players want to start a new game)
+Remember the rules: Rock beats scissors, Scissors beats paper, Paper beats rock
 - []() - 
 - []() - 
