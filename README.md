@@ -1,7 +1,7 @@
 # py3 [![Run on Repl.it](https://repl.it/badge/github/Liopun/py3)](https://repl.it/github/Liopun/py3)
 My Python Learning Journey
 
-In this Github repository, I'm documenting my journey by writing out the details so that, if you want to follow along, there will be an explanation of what I did, why, and with some references back to the practice questions.
+In this Github repository, I'm documenting my journey by providing solutions to python questions that are available on the internet for beginners, so that you can follow along. Details about the questions are provided.
 
 But not too much theory, I want this to be a practical journey so feel free to contribute an good examples you want to share!
 
@@ -26,3 +26,8 @@ Remember the rules: Rock beats scissors, Scissors beats paper and Paper beats ro
 - []() - 
 - []() - 
 - []() - 
+
+## Copyrights
+
+I have borrowed some of these questions, and ideas, from 
+[practicepython](http://www.practicepython.org/) written by Michele Pratusevich.
