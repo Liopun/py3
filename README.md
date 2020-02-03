@@ -12,5 +12,11 @@ My Python Learning Journey
 - [List Comprehensions](http://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html) - Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
 - [Rock Paper Scissors](http://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html) - Make a two-player Rock-Paper-Scissors game. (Hint: Ask for player plays (using input), compare them, print out a message of congratulations to the winner, and ask if the players want to start a new game)
 Remember the rules: Rock beats scissors, Scissors beats paper, Paper beats rock
+- [Guessing Game One](http://www.practicepython.org/exercise/2014/04/02/09-guessing-game-one.html) - Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.
+- [List Overlap Comprehensions](http://www.practicepython.org/exercise/2014/04/10/10-list-overlap-comprehensions.html) - Write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes. Using at least one list comprehension.
+- []() - 
+- []() - 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
