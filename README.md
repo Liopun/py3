@@ -20,12 +20,7 @@ Here are some practice questions I've done so far:
 Remember the rules: Rock beats scissors, Scissors beats paper and Paper beats rock. [code](practice/rock_paper_scissors.py)
 - [#9 Guessing Game One](http://www.practicepython.org/exercise/2014/04/02/09-guessing-game-one.html) - Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. [code](practice/guessing_game1.py)
 - [#10 List Overlap Comprehensions](http://www.practicepython.org/exercise/2014/04/10/10-list-overlap-comprehensions.html) - Write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes. Using at least one list comprehension. [code](practice/list_overlap_comprehensions.py)
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+
 
 ## Copyrights
 
