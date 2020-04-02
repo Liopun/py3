@@ -3,7 +3,7 @@ My Python Learning Journey
 
 In this Github repository, I'm documenting my journey by providing solutions to python questions that are available on the internet for beginners, so that you can follow along. Details about the questions are provided.
 
-But not too much theory, I want this to be a practical journey so feel free to contribute an good examples you want to share!
+But not too much theory, I want this to be a practical journey so feel free to contribute on good examples you want to share!
 
 Here are some practice questions I've done so far:
 
